@@ -1,0 +1,35 @@
+body{
+    background-color: rgba(11, 116, 220, 0.882);
+}
+h1{
+    color:rgb(255, 255, 255) ; font-size: 25px; 
+    border: 2px solid white ; 
+    padding-left:450px; 
+    background-color: black;
+}
+h2{ border: none ;
+    font-size:20px;
+    padding-top: 5px;
+    padding-left: 650px;
+    color:rgb(0, 0, 0);
+    text-decoration: underline;
+}
+ul{
+    border: 3px solid black;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    background-color: white;
+}
+p{
+    text-align: left;
+}
+h3{ 
+    color:rgb(0, 0, 0)
+}
+table, th, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+table{
+    background-color: white;
+}
