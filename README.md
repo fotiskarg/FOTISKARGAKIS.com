@@ -1,1 +1,1 @@
-# learnaboutfotis.com
+# learn-about-fotis.com
